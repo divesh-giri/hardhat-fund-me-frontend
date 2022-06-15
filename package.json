@@ -1,0 +1,11 @@
+{
+  "name": "frontend-fund-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm run"
+  },
+  "author": "",
+  "license": "ISC"
+}
